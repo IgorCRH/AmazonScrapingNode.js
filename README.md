@@ -18,6 +18,12 @@ A button to initiate the scraping process.
 Style the webpage to be user-friendly and presentable.
 Implement JavaScript to make an AJAX call to the backend endpoint when the button is clicked, and display the results formatted cleanly on the page.
 
+## Linguagens
+- Node.js (Axios, JSDOM e Express)
+- HTML
+- CSS
+- Javascript Puro (Front-End)
+
 ## Instruções
 - Crie uma pasta para o projeto
 - Adicione os arquivos e pastas do repositório nesta pasta
